@@ -18,7 +18,7 @@ function AddStudent() {
       due: "",
       installmentsPaid:"",
     },
-
+    
     onSubmit: async (values, { resetForm }) => {
       try {
         await addStudentFn(values).unwrap(); 
@@ -150,5 +150,4 @@ function AddStudent() {
     </div>
   );
 }
-
 export default AddStudent;
