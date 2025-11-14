@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom";
 import { useGetStudentDetailsByIdQuery, useLazyGetAllStudentsQuery, useLazyGetStudentDetailsByIdQuery } from "../../services/studentsApi";
 import { useUpdateStudentMutation } from "../../services/studentsApi";
 
-function UpdateStudent(){
+ function UpdateStudent(){
     const navigate = useNavigate();
     var {id}=useParams();
     var{isLoading,data}=useGetStudentDetailsByIdQuery(id);
