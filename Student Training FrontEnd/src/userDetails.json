@@ -1,0 +1,211 @@
+[
+    {
+      "name": "Daniel Adams",
+      "username": "Daniel Adams",
+      "age": 23,
+      "gender": "Male",
+      "course": "Web Development",
+      "totalFee": 78000,
+      "amountPaid": 50000,
+      "due": 28000,
+      "installmentsPaid": 2
+    },
+    {
+      "name": "Sofia Clark",
+      "username": "Sofia Clark",
+      "age": 21,
+      "gender": "Female",
+      "course": "UI/UX Design",
+      "totalFee": 65000,
+      "amountPaid": 40000,
+      "due": 25000,
+      "installmentsPaid": 3
+    },
+    {
+      "name": "Henry Scott",
+      "username": "Henry Scott",
+      "age": 24,
+      "gender": "Male",
+      "course": "Python Fullstack",
+      "totalFee": 70000,
+      "amountPaid": 50000,
+      "due": 20000,
+      "installmentsPaid": 2
+    },
+    {
+      "name": "Ariana Foster",
+      "username": "Ariana Foster",
+      "age": 22,
+      "gender": "Female",
+      "course": "Data Analytics",
+      "totalFee": 82000,
+      "amountPaid": 58000,
+      "due": 24000,
+      "installmentsPaid": 3
+    },
+    {
+      "name": "Ryan Murphy",
+      "username": "Ryan Murphy",
+      "age": 23,
+      "gender": "Male",
+      "course": "Java Fullstack",
+      "totalFee": 85000,
+      "amountPaid": 60000,
+      "due": 25000,
+      "installmentsPaid": 3
+    },
+    {
+      "name": "Layla Turner",
+      "username": "Layla Turner",
+      "age": 20,
+      "gender": "Female",
+      "course": "MERN Fullstack",
+      "totalFee": 76000,
+      "amountPaid": 52000,
+      "due": 24000,
+      "installmentsPaid": 2
+    },
+    {
+      "name": "Owen Parker",
+      "username": "Owen Parker",
+      "age": 22,
+      "gender": "Male",
+      "course": "Cyber Security",
+      "totalFee": 90000,
+      "amountPaid": 70000,
+      "due": 20000,
+      "installmentsPaid": 2
+    },
+    {
+      "name": "Hannah Rivera",
+      "username": "Hannah Rivera",
+      "age": 21,
+      "gender": "Female",
+      "course": "AI and ML",
+      "totalFee": 95000,
+      "amountPaid": 70000,
+      "due": 25000,
+      "installmentsPaid": 4
+    },
+    {
+      "name": "David Bell",
+      "username": "David Bell",
+      "age": 25,
+      "gender": "Male",
+      "course": "Cloud Computing",
+      "totalFee": 98000,
+      "amountPaid": 76000,
+      "due": 22000,
+      "installmentsPaid": 3
+    },
+    {
+      "name": "Chloe Bennett",
+      "username": "Chloe Bennett",
+      "age": 22,
+      "gender": "Female",
+      "course": "Digital Marketing",
+      "totalFee": 60000,
+      "amountPaid": 35000,
+      "due": 25000,
+      "installmentsPaid": 1
+    },
+    {
+      "name": "Elijah Gray",
+      "username": "Elijah Gray",
+      "age": 23,
+      "gender": "Male",
+      "course": "DevOps",
+      "totalFee": 85000,
+      "amountPaid": 65000,
+      "due": 20000,
+      "installmentsPaid": 3
+    },
+    {
+      "name": "Victoria Cooper",
+      "username": "Victoria Cooper",
+      "age": 21,
+      "gender": "Female",
+      "course": "React JS",
+      "totalFee": 60000,
+      "amountPaid": 40000,
+      "due": 20000,
+      "installmentsPaid": 2
+    },
+    {
+      "name": "Benjamin Flores",
+      "username": "Benjamin Flores",
+      "age": 24,
+      "gender": "Male",
+      "course": "Angular Development",
+      "totalFee": 78000,
+      "amountPaid": 50000,
+      "due": 28000,
+      "installmentsPaid": 2
+    },
+    {
+      "name": "Scarlett Hughes",
+      "username": "Scarlett Hughes",
+      "age": 22,
+      "gender": "Female",
+      "course": "Blockchain",
+      "totalFee": 82000,
+      "amountPaid": 60000,
+      "due": 22000,
+      "installmentsPaid": 1
+    },
+    {
+      "name": "Jacob Peterson",
+      "username": "Jacob Peterson",
+      "age": 25,
+      "gender": "Male",
+      "course": "Machine Learning",
+      "totalFee": 88000,
+      "amountPaid": 62000,
+      "due": 26000,
+      "installmentsPaid": 3
+    },
+    {
+      "name": "Matthew Evans",
+      "username": "Matthew Evans",
+      "age": 24,
+      "gender": "Male",
+      "course": "AWS",
+      "totalFee": 80000,
+      "amountPaid": 50000,
+      "due": 30000,
+      "installmentsPaid": 2
+    },
+    {
+      "name": "Amelia Brooks",
+      "username": "Amelia Brooks",
+      "age": 22,
+      "gender": "Female",
+      "course": "React Native",
+      "totalFee": 75000,
+      "amountPaid": 55000,
+      "due": 20000,
+      "installmentsPaid": 3
+    },
+    {
+      "name": "Natalie Reed",
+      "username": "Natalie Reed",
+      "age": 21,
+      "gender": "Female",
+      "course": "Data Science",
+      "totalFee": 90000,
+      "amountPaid": 68000,
+      "due": 22000,
+      "installmentsPaid": 3
+    },
+    {
+      "name": "Pravallika",
+      "username": "Pravallika",
+      "age": 21,
+      "gender": "Female",
+      "course": "Python",
+      "totalFee": 25000,
+      "amountPaid": 5000,
+      "due": 20000,
+      "installmentsPaid": 2
+    }
+  ]
