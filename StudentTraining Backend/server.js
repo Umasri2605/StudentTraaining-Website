@@ -26,7 +26,7 @@ app.use("/api/user",userRoutes);
 app.use("/api/students", studentRoutes);
 
 app.use((req, res) => {
-  res.status(404).json({ message: "Route not found" });
+  res.json({ message: "Route not found" });
 });
 
 const PORT = process.env.PORT || 4000;
